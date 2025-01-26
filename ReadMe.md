@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudante de Front-end.<br>Curso o 1° período de Sistemas de Informação no IFNMG.<br>Busco estágio e principalmente novos aprendizados.  
+Estudante de Front-end.<br>Curso o 2° período de Sistemas de Informação no IFNMG.<br>Busco novos aprendizados.  
 
 
 ## 🌐 Socials:
